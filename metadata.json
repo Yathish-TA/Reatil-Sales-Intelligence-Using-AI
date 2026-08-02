@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sales Intelligence",
+  "description": "Executive retail sales analytics dashboard with KPI cards, multi-dimensional filters, interactive visual charts, stockout risk monitor, AI business insights, and Excel report export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
